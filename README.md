@@ -21,3 +21,7 @@ and I welcome any individual interested in these subjects to follow along in thi
 2. Zero-shot learning
 3. One-shot learning
 4. Few-shot learning
+
+# Ideas
+
+1. Automatically label your data by using LLMs. Give the specified categories along with the text that you wish to classify as input to the LLM and get its prediction.
