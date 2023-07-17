@@ -15,7 +15,9 @@ and I welcome any individual interested in these subjects to follow along in thi
 1. [Jon Krohn](https://www.linkedin.com/in/jonkrohn/)
 
 
-# Topics to Follow up
+# Topics & Concepts to Follow up
 
 1. Reinforcement Learning from Human Feedback (RLHF): InstructGPT, ChatGPT
-2. 
+2. Zero-shot learning
+3. One-shot learning
+4. Few-shot learning
